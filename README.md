@@ -1,6 +1,6 @@
 # SoftDev2023
-Tematica del sitio: Plataforma de delivery y venta de comida </br>
-Publico objetivo: Cualquiera </br>
+Tematica del sitio: Plataforma de delivery y venta de comida\
+Publico objetivo: Cualquiera\
 Intregrantes:
  - Carlos Lombardo
  - Antonella Cortez Schiovane
