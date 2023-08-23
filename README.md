@@ -5,5 +5,6 @@ Intregrantes:
  - Carlos Lombardo
  - Antonella Cortez Schiovane
  - Fabrizio Azegio
- - Ignacio Arnold 
+ - Ignacio Arnold
+ - Joaquin Cortez\
 Repositorio para la materia Desarrollo de Software, de UTN FRM, cursada en el segundo semestre del año 2023
