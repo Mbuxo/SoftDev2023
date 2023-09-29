@@ -1,5 +1,5 @@
 import React, { useState } from 'react';  // Importación de React y useState para gestionar el estado
-import '../src/styles/Login.css';
+import '../styles/Login.css';
 import GoogleIcon from '@mui/icons-material/Google';
 import logo from './assets/img/logo.jpg'
 import imagen from '../assets/img/loginimg.jpg'
